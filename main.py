@@ -1,5 +1,5 @@
 #let us finf the factorial of a number
-print("enter a number")
+print("enter a number!")
 n=int(input())
 i=1
 answer=1
